@@ -1,0 +1,11 @@
+search_tweets_api:
+  account_type: premium
+  endpoint: https://api.twitter.com/1.1/tweets/search/30day/prod.json
+  consumer_key: FpFh2815KAbTwr8A1dFjh53IX
+  consumer_secret: q2FUjhd87FWjFJbr4YdWWKlNw6PMgrkeFnUu3DQ29ZgpSLxUX8
+  
+search_tweets_api_production:
+  account_type: premium
+  endpoint: https://api.twitter.com/1.1/tweets/search/fullarchive/production.json
+  consumer_key: FpFh2815KAbTwr8A1dFjh53IX
+  consumer_secret: q2FUjhd87FWjFJbr4YdWWKlNw6PMgrkeFnUu3DQ29ZgpSLxUX8
