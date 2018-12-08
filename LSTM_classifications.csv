@@ -1,31 +1,31 @@
-Me,LSTM,Match,tweet,Candidate,,Candidate
-1,0,0,"""The stakes could not be higher. ... What you do in Florida is going to impact the rest of the country."" - @KamalaHarris stumping for her Senate colleague Bill Nelson in Miami this morning. https://t.co/eXHZH8SMok",Bill Nelson,,Bill Nelson
--1,1,0,@FLGovScott @USACEHQ I laugh even in an election year Bill Nelson no where to be found. He is an empty seat like the ads.,Bill Nelson,,Claire McCaskill
-1,1,1,"Governor Rick Scott has been amazing since the hurricane ... He's always down here providing support, FEMA is everywhere, Red Cross, you name it. We're being well taken care of.
+,sentiment,tweet,candidate
+0,1.0,"""The stakes could not be higher. ... What you do in Florida is going to impact the rest of the country."" - @KamalaHarris stumping for her Senate colleague Bill Nelson in Miami this morning. https://t.co/eXHZH8SMok",Bill Nelson
+1,1.0,@FLGovScott @USACEHQ I laugh even in an election year Bill Nelson no where to be found. He is an empty seat like the ads.,Bill Nelson
+2,1.0,"Governor Rick Scott has been amazing since the hurricane ... He's always down here providing support, FEMA is everywhere, Red Cross, you name it. We're being well taken care of.
 
 
 
-Bill Nelson is absolutely nowhere to be found.  Big Surprise. He's a Democrat.",Bill Nelson,,Dean Heller
--1,1,0,Look out my friends in Florida   You have bill Nelson trying to take your guns away. You have a scumbag running for Governor Guilim who will turn your state into a sanctuary state. You will need your guns more then ever. This is a demon rat plot to disarm you,Bill Nelson,,Jacky Rosen
--1,1,0,@GKeile DON'T forget about Rick Scott in Florida over the *do-nothing* Bill Nelson! Vote #RickScott #VoteRedToSaveAmerica https://t.co/UmlyhxywAV,Bill Nelson,,Joe Donnelly
--1,1,0,"Rick Scott’s company ripped off Medicare. 
+Bill Nelson is absolutely nowhere to be found.  Big Surprise. He's a Democrat.",Bill Nelson
+3,1.0,Look out my friends in Florida   You have bill Nelson trying to take your guns away. You have a scumbag running for Governor Guilim who will turn your state into a sanctuary state. You will need your guns more then ever. This is a demon rat plot to disarm you,Bill Nelson
+4,1.0,@GKeile DON'T forget about Rick Scott in Florida over the *do-nothing* Bill Nelson! Vote #RickScott #VoteRedToSaveAmerica https://t.co/UmlyhxywAV,Bill Nelson
+5,1.0,"Rick Scott’s company ripped off Medicare. 
 
 Rick Scott rejected Medicaid for 800,000 Floridians. 
 
 Rick Scott will reduce your Medicare &amp; Social Security benefits to pay for tax cuts for the 1%. 
 
-Vote fo Bill Nelson.",Bill Nelson,,Joe Manchin
--1,1,0,"Powerful reminder why the election of @RonDeSantisFL   matters.  And let's PLEASE send Bill ""do-nothing"" Nelson home and send @FLGovScott to the Senate! https://t.co/DL7RBPF2cG",Bill Nelson,,Jon Tester
--1,1,0,"@realDonaldTrump @ScottforFlorida You are the con man in the world, a chronic pathological liar. There is no cure for your disease. Bill Nelson has been there for every disaster areas and events and helped with the DISASTER RELIEF. Nelson reached out for all victims. Where was/is Rick Scott and you??? https://t.co/rOVZwNWDJB",Bill Nelson,,Josh Hawley
--1,0,0,"@realDonaldTrump You are the con man in the world, a chronic pathological liar. There is no cure for your disease. Bill Nelson has been there for every disaster areas and events and helped with the DISASTER RELIEF. Nelson reached out for all victims. Where was/is Rick Scott and you??? https://t.co/bOQLmvwd2E",Bill Nelson,,Kyrsten Sinema
--1,0,0,"In all the time I’ve been President, almost two years, never once did Senator Bill Nelson call me to ask for help for the Great State of Florida. I never see him until election time....",Bill Nelson,,Marsha Blackburn
-0,0,1,"BOOM!! 
+Vote fo Bill Nelson.",Bill Nelson
+6,1.0,"Powerful reminder why the election of @RonDeSantisFL   matters.  And let's PLEASE send Bill ""do-nothing"" Nelson home and send @FLGovScott to the Senate! https://t.co/DL7RBPF2cG",Bill Nelson
+7,0.0,"@realDonaldTrump @ScottforFlorida You are the con man in the world, a chronic pathological liar. There is no cure for your disease. Bill Nelson has been there for every disaster areas and events and helped with the DISASTER RELIEF. Nelson reached out for all victims. Where was/is Rick Scott and you??? https://t.co/rOVZwNWDJB",Bill Nelson
+8,0.0,"@realDonaldTrump You are the con man in the world, a chronic pathological liar. There is no cure for your disease. Bill Nelson has been there for every disaster areas and events and helped with the DISASTER RELIEF. Nelson reached out for all victims. Where was/is Rick Scott and you??? https://t.co/bOQLmvwd2E",Bill Nelson
+9,0.0,"In all the time I’ve been President, almost two years, never once did Senator Bill Nelson call me to ask for help for the Great State of Florida. I never see him until election time....",Bill Nelson
+10,1.0,"BOOM!! 
 
 
 
-The Border Patrol Union that endorsed Trump in 2016, just endorsed 3 major Democrat Senate candidates who Trump has said are weak on border security:  Claire McCaskill, Jon Tester and Heidi Heitkamp!",Claire McCaskill,,Martha McSally
-1,1,1,"This is urgent: Poll after poll shows Claire McCaskill TIED with her extremist GOP opponent in Missouri’s toss-up Senate race. She needs funds to stand up to GOP attack ads, so I promised her that we’d come through. Control of the Senate is at stake. Give now to help Claire win!",Claire McCaskill,,Matt Rosendale
-0,1,0,"Claire McCaskill / Josh Hawley Final Debate - Sparks Fly - Don’t Get Sidetracked by False Flags
+The Border Patrol Union that endorsed Trump in 2016, just endorsed 3 major Democrat Senate candidates who Trump has said are weak on border security:  Claire McCaskill, Jon Tester and Heidi Heitkamp!",Claire McCaskill
+11,1.0,"This is urgent: Poll after poll shows Claire McCaskill TIED with her extremist GOP opponent in Missouri’s toss-up Senate race. She needs funds to stand up to GOP attack ads, so I promised her that we’d come through. Control of the Senate is at stake. Give now to help Claire win!",Claire McCaskill
+12,1.0,"Claire McCaskill / Josh Hawley Final Debate - Sparks Fly - Don’t Get Sidetracked by False Flags
 
 
 
@@ -37,18 +37,18 @@ The Border Patrol Union that endorsed Trump in 2016, just endorsed 3 major Democ
 
 
 
-https://t.co/jwnStFepRX",Claire McCaskill,,Mike Braun
-1,1,1,"Pres. Trump has flown to MO 4 times to campaign against my friend Claire McCaskill, and special interest groups have spent more than $20 MILLION to flip her seat. So please, give now so Claire can turn out voters to keep this seat blue and protect the future of the Supreme Court.",Claire McCaskill,,Patrick Morrisey
-1,1,1,@MeetThePress @MorganRadford Republicans want to take away protections for people with pre-existing health conditions like asthma &amp; diabetes. Republicans voted to take away those protections last year and are suing to take away the pre-existing protections. Vote for Claire McCaskill,Claire McCaskill,,Phil Bredesen
-1,1,1,@MomsDemand is getting out the Vote for Claire McCaskill @McCaskill4MO &amp; Cort VanOstran @cortvo! We need to do it too! #VoteDem #WaveCast #WaveCastMO  #FlipTheHouse #FlipTheSenate 💥 Vote! 💥 https://t.co/eKue6XWJRA,Claire McCaskill,,Rick Scott
--1,1,0,Claire McCaskill Under Fire After Staffer Admits Planned Parenthood Secretly Funnels Money to Her https://t.co/13jyfaZd9O https://t.co/mIaBmujmpo,Claire McCaskill,,
-0,1,0,"💥💥 MISSOURI ELECTION ALERT 💥💥
+https://t.co/jwnStFepRX",Claire McCaskill
+13,1.0,"Pres. Trump has flown to MO 4 times to campaign against my friend Claire McCaskill, and special interest groups have spent more than $20 MILLION to flip her seat. So please, give now so Claire can turn out voters to keep this seat blue and protect the future of the Supreme Court.",Claire McCaskill
+14,1.0,@MeetThePress @MorganRadford Republicans want to take away protections for people with pre-existing health conditions like asthma &amp; diabetes. Republicans voted to take away those protections last year and are suing to take away the pre-existing protections. Vote for Claire McCaskill,Claire McCaskill
+15,1.0,@MomsDemand is getting out the Vote for Claire McCaskill @McCaskill4MO &amp; Cort VanOstran @cortvo! We need to do it too! #VoteDem #WaveCast #WaveCastMO  #FlipTheHouse #FlipTheSenate 💥 Vote! 💥 https://t.co/eKue6XWJRA,Claire McCaskill
+16,1.0,Claire McCaskill Under Fire After Staffer Admits Planned Parenthood Secretly Funnels Money to Her https://t.co/13jyfaZd9O https://t.co/mIaBmujmpo,Claire McCaskill
+17,1.0,"💥💥 MISSOURI ELECTION ALERT 💥💥
 
 If you want want Border Security, and to preserve your way of life, it’s time to say goodbye the Claire McCaskill
 
-And vote for Josh Hawley @HawleyMO for U.S Senate.  Our President agrees that Josh Hawley is the right choice for Missouri. https://t.co/jseG3AfjFW",Claire McCaskill,,
--1,1,0,"Claire McCaskill stands with them, not Missouri. Find your polling place now and vote November 6th!",Claire McCaskill,,
--1,1,0,"#MISSOURI #CONSERVATIVES #WALKAWAY
+And vote for Josh Hawley @HawleyMO for U.S Senate.  Our President agrees that Josh Hawley is the right choice for Missouri. https://t.co/jseG3AfjFW",Claire McCaskill
+18,1.0,"Claire McCaskill stands with them, not Missouri. Find your polling place now and vote November 6th!",Claire McCaskill
+19,0.0,"#MISSOURI #CONSERVATIVES #WALKAWAY
 
 
 
@@ -62,20 +62,20 @@ LIES!  She is the Radical Left &amp; has a worse conservative record than PELOSI
 
 Vote JOSH HAWLEY FOR SENATE 
 
-#VoteRed #VoteDemsOut https://t.co/b5S7nS3abY",Claire McCaskill,,
--1,0,0,"Danny Tarkanian has some ~thoughts~ on Dean Heller’s conversion from Trump skeptic to loyal supporter.
+#VoteRed #VoteDemsOut https://t.co/b5S7nS3abY",Claire McCaskill
+20,1.0,"Danny Tarkanian has some ~thoughts~ on Dean Heller’s conversion from Trump skeptic to loyal supporter.
 
 
 
-https://t.co/BrezUh6bLP https://t.co/CbUb5xSLI0",Dean Heller,,
-1,1,1,"Heading to Nevada to help a man who has become a good friend, Senator Dean Heller. He is all about #MAGA and I need his Help and Talent in Washington. Also, Adam Laxalt will be a GREAT GOVERNOR, and has my complete and total Endorsement. Winners Both!",Dean Heller,,
-0,1,0,".@DeanHeller’s Senate race is probably the best test of Trump’s political power in the 2018 election: a former critic turned staunch ally whose hopes hinge on juicing pro-Trump voter turnout in Nevada.
+https://t.co/BrezUh6bLP https://t.co/CbUb5xSLI0",Dean Heller
+21,1.0,"Heading to Nevada to help a man who has become a good friend, Senator Dean Heller. He is all about #MAGA and I need his Help and Talent in Washington. Also, Adam Laxalt will be a GREAT GOVERNOR, and has my complete and total Endorsement. Winners Both!",Dean Heller
+22,1.0,".@DeanHeller’s Senate race is probably the best test of Trump’s political power in the 2018 election: a former critic turned staunch ally whose hopes hinge on juicing pro-Trump voter turnout in Nevada.
 
 
 
-https://t.co/BrezUh6bLP",Dean Heller,,
--1,1,0,"BREAKING: 538 said Nevada’s Senate race is the closest in the entire country. If we LOSE here to Trump-backed Dean Heller, we’ll LOSE our chance to take back the Senate! We’re counting on you. Please, chip in NOW to help us win – every dollar will be DOUBLED! Donate NOW &gt;&gt;",Dean Heller,,
-1,0,0,"John James
+https://t.co/BrezUh6bLP",Dean Heller
+23,0.0,"BREAKING: 538 said Nevada’s Senate race is the closest in the entire country. If we LOSE here to Trump-backed Dean Heller, we’ll LOSE our chance to take back the Senate! We’re counting on you. Please, chip in NOW to help us win – every dollar will be DOUBLED! Donate NOW &gt;&gt;",Dean Heller
+24,1.0,"John James
 
 Kevin Cramer
 
@@ -105,24 +105,24 @@ Mike Braun
 
 Patrick Morrisey
 
-VOTE VOTE VOTE VOTE VOTE",Dean Heller,,
--1,1,0,"Nevada Sen. Dean Heller (R) had a woman with stage-4 cancer forcibly removed from his town hall after she asked him how Trump's policies would harm the Affordable Care Act. 
+VOTE VOTE VOTE VOTE VOTE",Dean Heller
+25,0.0,"Nevada Sen. Dean Heller (R) had a woman with stage-4 cancer forcibly removed from his town hall after she asked him how Trump's policies would harm the Affordable Care Act. 
 
 
 
-https://t.co/qFH7PrP6hf",Dean Heller,,
--1,0,0,"Our new ad features a Reno family whose son, Dean, was born with a heart defect. He will have a pre-existing condition for the rest of his life.
+https://t.co/qFH7PrP6hf",Dean Heller
+26,1.0,"Our new ad features a Reno family whose son, Dean, was born with a heart defect. He will have a pre-existing condition for the rest of his life.
 
-Senator Heller still owes them an explanation for why he supported slashing pre-existing conditions protections. #NVSen https://t.co/qMFkEhas1H",Dean Heller,,
--1,1,0,"BREAKING: 538 said Nevada’s Senate race is the closest in the entire country. If we LOSE here to Trump-backed Dean Heller, we’ll LOSE our chance to take back the Senate! We’re counting on you. Please, chip in NOW to help us win – every dollar will be DOUBLED! Donate NOW &gt;&gt;",Dean Heller,,
--1,0,0,"Go #BlueWave!! Jacky Rosen @RosenforNevada #FlipTheSenate
+Senator Heller still owes them an explanation for why he supported slashing pre-existing conditions protections. #NVSen https://t.co/qMFkEhas1H",Dean Heller
+27,0.0,"BREAKING: 538 said Nevada’s Senate race is the closest in the entire country. If we LOSE here to Trump-backed Dean Heller, we’ll LOSE our chance to take back the Senate! We’re counting on you. Please, chip in NOW to help us win – every dollar will be DOUBLED! Donate NOW &gt;&gt;",Dean Heller
+28,1.0,"Go #BlueWave!! Jacky Rosen @RosenforNevada #FlipTheSenate
 
 ""Control of Congress pits a relatively unknown Southern #Nevada Dem against incumbent Nevada Republican (Dean Heller) who, critics contend, is too well known to be trusted.""  --Reno Gazette Journal
 
-#BeAVoter #VoteBlue https://t.co/u0LBh4sDA0",Dean Heller,,
--1,1,0,"@DeanHeller just said ""I'm the 5th most bipartisan Senator in Washington."" 538 score doesn't reflect that:  https://t.co/cJmW2B882Y",Dean Heller,,
-1,0,0,@RosenforNevada Vote for Jacky Rosen!!,Jacky Rosen,,
-1,1,1,"@ZConine @CByrne4NV @SheaBackusEsq @TheDA_Wolfson 
+#BeAVoter #VoteBlue https://t.co/u0LBh4sDA0",Dean Heller
+29,0.0,"@DeanHeller just said ""I'm the 5th most bipartisan Senator in Washington."" 538 score doesn't reflect that:  https://t.co/cJmW2B882Y",Dean Heller
+30,1.0,@RosenforNevada Vote for Jacky Rosen!!,Jacky Rosen
+31,1.0,"@ZConine @CByrne4NV @SheaBackusEsq @TheDA_Wolfson 
 
 ~IN JUST 9 DAYS NEVADA GOES BLUE~
 
@@ -130,8 +130,8 @@ Senator Heller still owes them an explanation for why he supported slashing pre-
 
 Go here to learn:
 
-https://t.co/aRAbNkFR80 https://t.co/HPriBub5ws",Jacky Rosen,,
--1,1,0,"Nevada: I believe here are my votes that I shall make on election day.
+https://t.co/aRAbNkFR80 https://t.co/HPriBub5ws",Jacky Rosen
+32,1.0,"Nevada: I believe here are my votes that I shall make on election day.
 
 Governor: Donald B. Mckiegan the only real choice.
 
@@ -141,17 +141,17 @@ Lieutenant Governor: Republican
 
 Attorney General: Republican
 
-Against Danny tarkanian, Ozzy Fumo, and steven horseford",Jacky Rosen,,
-1,1,1,"@RosenforNevada @joe_kidder2 Donating time and money, and I don’t even live in NV. That’s how much I believe in Jacky Rosen.",Jacky Rosen,,
-1,1,1,"@RosenforNevada VOTE BLUE
+Against Danny tarkanian, Ozzy Fumo, and steven horseford",Jacky Rosen
+33,1.0,"@RosenforNevada @joe_kidder2 Donating time and money, and I don’t even live in NV. That’s how much I believe in Jacky Rosen.",Jacky Rosen
+34,1.0,"@RosenforNevada VOTE BLUE
 
 Jacky Rosen
 
 🌊🌊🌊🌊🌊
 
-🌊🌊🌊🌊🌊 https://t.co/0RqVK4Hy5h",Jacky Rosen,,
-1,1,1,"President Obama is ALL-IN to elect Jacky Rosen in NV because he knows that THIS race will decide Senate control. But McConnell is dumping millions in to stop us, and our fundraising is falling short. Give now and have it MATCHED to win in NV and take back the Senate for Dems!",Jacky Rosen,,
-1,0,0,"NEVADA :
+🌊🌊🌊🌊🌊 https://t.co/0RqVK4Hy5h",Jacky Rosen
+35,0.0,"President Obama is ALL-IN to elect Jacky Rosen in NV because he knows that THIS race will decide Senate control. But McConnell is dumping millions in to stop us, and our fundraising is falling short. Give now and have it MATCHED to win in NV and take back the Senate for Dems!",Jacky Rosen
+36,1.0,"NEVADA :
 
 
 
@@ -185,22 +185,22 @@ SAVE YOUR ACA + PRE- EXIST CON
 
 VOTE J ROSEN 
 
-RT",Jacky Rosen,,
-1,1,1,"Two days left. Vote Jacky Rosen, @RosenforNevada, to help keep this the land of the free. She’s the best of the brave. #WaveCast #WaveCastNV #FlipTheSenate #VoteDem 💥 https://t.co/jQT8oqWIyg",Jacky Rosen,,
-1,1,1,"Jacky Rosen, Democrats Do not know what party lines are, &amp; I don’t think you do. President has tried to work with Dem’s many times. We all know how that went. It’s 100% Dems way or no way.",Jacky Rosen,,
-1,1,1,"""They don't care about your health conditions. They don't care about lifetime caps. Jacky Rosen does, and that's why I'm here to support Jacky."" - @JimmyKimmel
+RT",Jacky Rosen
+37,1.0,"Two days left. Vote Jacky Rosen, @RosenforNevada, to help keep this the land of the free. She’s the best of the brave. #WaveCast #WaveCastNV #FlipTheSenate #VoteDem 💥 https://t.co/jQT8oqWIyg",Jacky Rosen
+38,1.0,"Jacky Rosen, Democrats Do not know what party lines are, &amp; I don’t think you do. President has tried to work with Dem’s many times. We all know how that went. It’s 100% Dems way or no way.",Jacky Rosen
+39,1.0,"""They don't care about your health conditions. They don't care about lifetime caps. Jacky Rosen does, and that's why I'm here to support Jacky."" - @JimmyKimmel
 
 
 
-Help us get across the finish line &gt;&gt; https://t.co/XU1IJEjTfC https://t.co/pcZvFCObd0",Jacky Rosen,,
--1,1,0,"In Joe Donnelly's America, our enemies are appeased, good people are smeared, and Hollywood values are celebrated. That's not the America we see. Vote Mike Braun on November 6th! #INSen #INPol #DitchDonnelly",Joe Donnelly,,
-1,1,1,"""America needs more senators like Joe Donnelly. Indiana needs to re-elect him.""
+Help us get across the finish line &gt;&gt; https://t.co/XU1IJEjTfC https://t.co/pcZvFCObd0",Jacky Rosen
+40,1.0,"In Joe Donnelly's America, our enemies are appeased, good people are smeared, and Hollywood values are celebrated. That's not the America we see. Vote Mike Braun on November 6th! #INSen #INPol #DitchDonnelly",Joe Donnelly
+41,1.0,"""America needs more senators like Joe Donnelly. Indiana needs to re-elect him.""
 
 
 
-Thank you, @JGfortwayne! Please, make your plan to vote early this week at https://t.co/gSIBXN80oO and let's win this. https://t.co/hSMIkdhnR3",Joe Donnelly,,
-1,1,1,"#ICYMI: President Trump signed the bipartisan America’s Water Infrastructure Act into law this week, which contained several of Joe’s provisions focused on Hoosier priorities. https://t.co/p8H1BKRMlW https://t.co/aLzO30SqW5",Joe Donnelly,,
-1,1,1,"@JaySekulow In CASE YOU MISSED IT
+Thank you, @JGfortwayne! Please, make your plan to vote early this week at https://t.co/gSIBXN80oO and let's win this. https://t.co/hSMIkdhnR3",Joe Donnelly
+42,1.0,"#ICYMI: President Trump signed the bipartisan America’s Water Infrastructure Act into law this week, which contained several of Joe’s provisions focused on Hoosier priorities. https://t.co/p8H1BKRMlW https://t.co/aLzO30SqW5",Joe Donnelly
+43,1.0,"@JaySekulow In CASE YOU MISSED IT
 
 An amendment that could have de-funded Planned Parenthood
 
@@ -216,8 +216,8 @@ Sen. Bob Casey (D-PA)
 
 Sen’s Collins (R-ME)
 
-Murkowski (R-AK).",Joe Donnelly,,
-0,1,0,"CBS/YouGov Senate polls
+Murkowski (R-AK).",Joe Donnelly
+44,0.0,"CBS/YouGov Senate polls
 
 
 
@@ -245,8 +245,8 @@ Martha McSally (R) 44%
 
 
 
-https://t.co/PJl6sJEiF0",Joe Donnelly,,
--1,0,0,"By campaigning with Obama, Mexico Joe Donnelly is proving his allegiance to the angry liberal mob.
+https://t.co/PJl6sJEiF0",Joe Donnelly
+45,0.0,"By campaigning with Obama, Mexico Joe Donnelly is proving his allegiance to the angry liberal mob.
 
 
 
@@ -254,9 +254,9 @@ Donnelly voted no on Kavanaugh, yes on the Iran deal, &amp; was even a superdele
 
 
 
-He sent Hoosier jobs to Mexico. Now it’s time to send him packing! #INSen",Joe Donnelly,,
-1,0,0,"@BarackObama is a Joe fan. @JoeBiden, and Joe Donnelly @JoeforIndiana. #VoteJoe, he’s what #Hoosiers need. #WaveCast #WaveCastIN #FlipTheSenate 💥 #Indiana https://t.co/7KZSNHGPKh",Joe Donnelly,,
--1,1,0,"Joe Donnelly, D-candidate for Senate in Indiana said today he helped cast the vote to ""Save Healthcare.""
+He sent Hoosier jobs to Mexico. Now it’s time to send him packing! #INSen",Joe Donnelly
+46,1.0,"@BarackObama is a Joe fan. @JoeBiden, and Joe Donnelly @JoeforIndiana. #VoteJoe, he’s what #Hoosiers need. #WaveCast #WaveCastIN #FlipTheSenate 💥 #Indiana https://t.co/7KZSNHGPKh",Joe Donnelly
+47,1.0,"Joe Donnelly, D-candidate for Senate in Indiana said today he helped cast the vote to ""Save Healthcare.""
 
 
 
@@ -270,24 +270,24 @@ And he even did it with a Straight Face.
 
 Get rid of this LIAR Indiana. 
 
-Vote Red Nov 6th.",Joe Donnelly,,
--1,1,0,Joe Donnelly Running Stealth Facebook Ads Boosting Libertarian In Senate Race https://t.co/k1ft69KS1i via @weaselzippers,Joe Donnelly,,
--1,1,0,Rumor has it that Senator Joe Donnelly of Indiana is paying for Facebook ads for his so-called opponent on the libertarian ticket. Donnelly is trying to steal the election? Isn’t that what Russia did!?,Joe Donnelly,,
--1,0,0,Delivered an important message today while campaigning for @MorriseyWV. Joe Manchin voted for Justice Kavanaugh after we had the votes. West Virginia can always count on Joe to be there when you don’t need him. https://t.co/dgqaL8Es7V,Joe Manchin,,
--1,1,0,"You can’t just pretend to be #maga when you’re up for re-election like Liberal Joe Manchin has done. Just look at his voting record... he’s always with Schumer when it actually matters like being against (tax cuts, Gorsuch etc). #WV needs a change. Elect @MorriseyWV https://t.co/TMq0v6u5P7",Joe Manchin,,
-0,1,0,@Sen_JoeManchin https://t.co/PioVLfTBBS,Joe Manchin,,
-0,1,0,@WVGirlOnFire @Sen_JoeManchin https://t.co/PioVLfTBBS,Joe Manchin,,
--1,1,0,"What did Joe Manchin do when Obama &amp; Hillary were killing the coal industry in WV? 2 say he did nothing would be kind. Not only did he stand by &amp; do nothing, he stood with &amp; supported Obama &amp; Hillary while they tried their damndest 2 kill the coal industry.
+Vote Red Nov 6th.",Joe Donnelly
+48,1.0,Joe Donnelly Running Stealth Facebook Ads Boosting Libertarian In Senate Race https://t.co/k1ft69KS1i via @weaselzippers,Joe Donnelly
+49,0.0,Rumor has it that Senator Joe Donnelly of Indiana is paying for Facebook ads for his so-called opponent on the libertarian ticket. Donnelly is trying to steal the election? Isn’t that what Russia did!?,Joe Donnelly
+50,1.0,Delivered an important message today while campaigning for @MorriseyWV. Joe Manchin voted for Justice Kavanaugh after we had the votes. West Virginia can always count on Joe to be there when you don’t need him. https://t.co/dgqaL8Es7V,Joe Manchin
+51,1.0,"You can’t just pretend to be #maga when you’re up for re-election like Liberal Joe Manchin has done. Just look at his voting record... he’s always with Schumer when it actually matters like being against (tax cuts, Gorsuch etc). #WV needs a change. Elect @MorriseyWV https://t.co/TMq0v6u5P7",Joe Manchin
+52,1.0,@Sen_JoeManchin https://t.co/PioVLfTBBS,Joe Manchin
+53,1.0,@WVGirlOnFire @Sen_JoeManchin https://t.co/PioVLfTBBS,Joe Manchin
+54,0.0,"What did Joe Manchin do when Obama &amp; Hillary were killing the coal industry in WV? 2 say he did nothing would be kind. Not only did he stand by &amp; do nothing, he stood with &amp; supported Obama &amp; Hillary while they tried their damndest 2 kill the coal industry.
 
 
 
-#MorriseyForSenate https://t.co/PLAU4AkodG",Joe Manchin,,
--1,0,0,"FACT: Joe Manchin stood with Hillary Clinton even after she pledged to ""put a lot of coal miners &amp; coal companies out of business"" #WVsen https://t.co/F7lsWfUvjA",Joe Manchin,,
--1,0,0,"West Virginia, this is Joe Manchin at the State of the Union. He tried to stand right after @realDonaldTrump talked about all time low unemployment numbers, but got a look from Chuck Schumer &amp; he sat down like a well trained dog!
+#MorriseyForSenate https://t.co/PLAU4AkodG",Joe Manchin
+55,0.0,"FACT: Joe Manchin stood with Hillary Clinton even after she pledged to ""put a lot of coal miners &amp; coal companies out of business"" #WVsen https://t.co/F7lsWfUvjA",Joe Manchin
+56,1.0,"West Virginia, this is Joe Manchin at the State of the Union. He tried to stand right after @realDonaldTrump talked about all time low unemployment numbers, but got a look from Chuck Schumer &amp; he sat down like a well trained dog!
 
-You can do much better vote @MorriseyWV #wv #wvpol https://t.co/5fFbSWmFdL",Joe Manchin,,
--1,1,0,"millennials are all out here selling our ass on patreon for rent money because you old mofuckers destroyed the economy and then killed our one shot at escaping 19 times as much college debt as you ever had and everyone  is like ""why aren't they voting for Joe Manchin?""",Joe Manchin,,
--1,0,0,"Manchin: ‘Anybody’ Could Have Requested a ‘Governor’s Helicopter’ With Opioid Settlement Money. 
+You can do much better vote @MorriseyWV #wv #wvpol https://t.co/5fFbSWmFdL",Joe Manchin
+57,0.0,"millennials are all out here selling our ass on patreon for rent money because you old mofuckers destroyed the economy and then killed our one shot at escaping 19 times as much college debt as you ever had and everyone  is like ""why aren't they voting for Joe Manchin?""",Joe Manchin
+58,1.0,"Manchin: ‘Anybody’ Could Have Requested a ‘Governor’s Helicopter’ With Opioid Settlement Money. 
 
 
 
@@ -295,15 +295,15 @@ But it wasn’t anyone was it Joe?
 
 
 
-West Virginia you can do better. Vote ⁦@MorriseyWV⁩ #WVsen #wv #WestVirgina   https://t.co/7DQS6fIi5F",Joe Manchin,,
-1,1,1,"Mildly interesting red-state trend: Heidi Heitkamp and Claire McCaskill are losing steam down the stretch while Joe Manchin, Joe Donnelly, Phil Bredesen and Beto O’Rourke are either ahead or closing in. 🤔",Joe Manchin,,
-1,1,1,"BOOM!! 
+West Virginia you can do better. Vote ⁦@MorriseyWV⁩ #WVsen #wv #WestVirgina   https://t.co/7DQS6fIi5F",Joe Manchin
+59,1.0,"Mildly interesting red-state trend: Heidi Heitkamp and Claire McCaskill are losing steam down the stretch while Joe Manchin, Joe Donnelly, Phil Bredesen and Beto O’Rourke are either ahead or closing in. 🤔",Joe Manchin
+60,1.0,"BOOM!! 
 
 
 
-The Border Patrol Union that endorsed Trump in 2016, just endorsed 3 major Democrat Senate candidates who Trump has said are weak on border security:  Claire McCaskill, Jon Tester and Heidi Heitkamp!",Jon Tester,,
--1,1,0,"Jon Tester says one thing to voters and does the EXACT OPPOSITE in Washington. Tester takes his orders form Pelosi &amp; Schumer. Tester wants to raise your taxes, take away your 2A, open your borders, and deliver MOB RULE. Retire Tester &amp; Elect America-First Patriot Matt Rosendale!",Jon Tester,,
-1,1,1,"BREAKING: WOW The Border Patrol union That endorsed Trump in 2016 The National Border Patrol Council, Just endorsed 3 Senate Democrats Who Trump said Were weak on border security
+The Border Patrol Union that endorsed Trump in 2016, just endorsed 3 major Democrat Senate candidates who Trump has said are weak on border security:  Claire McCaskill, Jon Tester and Heidi Heitkamp!",Jon Tester
+61,1.0,"Jon Tester says one thing to voters and does the EXACT OPPOSITE in Washington. Tester takes his orders form Pelosi &amp; Schumer. Tester wants to raise your taxes, take away your 2A, open your borders, and deliver MOB RULE. Retire Tester &amp; Elect America-First Patriot Matt Rosendale!",Jon Tester
+62,1.0,"BREAKING: WOW The Border Patrol union That endorsed Trump in 2016 The National Border Patrol Council, Just endorsed 3 Senate Democrats Who Trump said Were weak on border security
 
 
 
@@ -311,8 +311,8 @@ The Border Patrol Union that endorsed Trump in 2016, just endorsed 3 major Democ
 
 
 
-THIS IS JUST AWESOME",Jon Tester,,
-1,1,1,"MONTANA
+THIS IS JUST AWESOME",Jon Tester
+63,1.0,"MONTANA
 
 U.S. Senate:
 
@@ -322,10 +322,10 @@ Matt Rosendale (R) 39%
 
 Rick Breckenridge (L) 2%
 
-(U. of Montana Big Sky Poll, LV, 10/10-18/18)",Jon Tester,,
--1,1,0,"""@realDonaldTrump …. bashed incumbent Democratic @jontester as someone who ‘will listen to whatever Cryin' Chuck tells him to do.’"" #mtpol #mtsen #DefeatTester https://t.co/XS4cbkEAVR",Jon Tester,,
--1,1,0,"""‘I’ve never forgotten it,’ the president of @jontester blocking the nomination of former White House doctor Adm. Ronny Jackson to lead the Department of Veterans Affairs."" #mtpol #mtsen #DefeatTester https://t.co/8EvFdZ5ZL2",Jon Tester,,
--1,1,0,"Democrat Jon Tester isn’t a Trump ally. Just look at his votes on @realDonaldTrump’s nominees:
+(U. of Montana Big Sky Poll, LV, 10/10-18/18)",Jon Tester
+64,1.0,"""@realDonaldTrump …. bashed incumbent Democratic @jontester as someone who ‘will listen to whatever Cryin' Chuck tells him to do.’"" #mtpol #mtsen #DefeatTester https://t.co/XS4cbkEAVR",Jon Tester
+65,1.0,"""‘I’ve never forgotten it,’ the president of @jontester blocking the nomination of former White House doctor Adm. Ronny Jackson to lead the Department of Veterans Affairs."" #mtpol #mtsen #DefeatTester https://t.co/8EvFdZ5ZL2",Jon Tester
+66,0.0,"Democrat Jon Tester isn’t a Trump ally. Just look at his votes on @realDonaldTrump’s nominees:
 
 ❌Gorsuch
 
@@ -343,9 +343,9 @@ Rick Breckenridge (L) 2%
 
 Tester has to go. Vote @MattForMontana! #MTSen
 
-https://t.co/uzWsuLg5I8",Jon Tester,,
-1,0,0,"They may not be able to vote, but #TotsforTester are getting the word out about Jon Tester. After all, this election will affect their generation. #mtpol #mtsen #letsvoteMT https://t.co/1PyOd6baKC",Jon Tester,,
-1,0,0,"Protect SS, Medicare and Medicaid get out and vote BLUE! 
+https://t.co/uzWsuLg5I8",Jon Tester
+67,0.0,"They may not be able to vote, but #TotsforTester are getting the word out about Jon Tester. After all, this election will affect their generation. #mtpol #mtsen #letsvoteMT https://t.co/1PyOd6baKC",Jon Tester
+68,1.0,"Protect SS, Medicare and Medicaid get out and vote BLUE! 
 
 Re-elect Blue Senators: Heide Heitkamp for North Dakota, 
 
@@ -353,11 +353,11 @@ Claire McCaskill for Missouri, Joe Donnelly for Indiana, Jon Tester for Montana,
 
 Bob Menendez for New Jersey, Tammy Baldwin for Wisconsin,
 
-Sherrod Brown of Ohio! https://t.co/2TQotnHnWx",Jon Tester,,
--1,1,0,"@frankthorp Trump is in Bozeman, because senator Jon Tester pissed him off. Bozeman is a liberal city, in a red state, highly educated, we care about people of all color, religious background and see a trend in our state turning blue.  Don't write us off, we need more progressive visitors!",Jon Tester,,
--1,0,0,"Josh Hawley supports right-to-work(-for-less) in MO, opposes raising the minimum wage, and is currently suing to gut healthcare coverage for nearly 2.5 million Missourians with pre-existing conditions. He's wrong for MO. #MOSen",Josh Hawley,,
--1,0,0,"Josh Hawley says only Democrats are fomenting violence, singling Hillary Clinton and Eric Holder out for blame while making no mention of the fact that they both had bombs sent to them, @MelindaKCMO writes. https://t.co/PZ2Q13tFBF",Josh Hawley,,
-1,0,0,"Claire McCaskill / Josh Hawley Final Debate - Sparks Fly - Don’t Get Sidetracked by False Flags
+Sherrod Brown of Ohio! https://t.co/2TQotnHnWx",Jon Tester
+69,0.0,"@frankthorp Trump is in Bozeman, because senator Jon Tester pissed him off. Bozeman is a liberal city, in a red state, highly educated, we care about people of all color, religious background and see a trend in our state turning blue.  Don't write us off, we need more progressive visitors!",Jon Tester
+70,0.0,"Josh Hawley supports right-to-work(-for-less) in MO, opposes raising the minimum wage, and is currently suing to gut healthcare coverage for nearly 2.5 million Missourians with pre-existing conditions. He's wrong for MO. #MOSen",Josh Hawley
+71,0.0,"Josh Hawley says only Democrats are fomenting violence, singling Hillary Clinton and Eric Holder out for blame while making no mention of the fact that they both had bombs sent to them, @MelindaKCMO writes. https://t.co/PZ2Q13tFBF",Josh Hawley
+72,1.0,"Claire McCaskill / Josh Hawley Final Debate - Sparks Fly - Don’t Get Sidetracked by False Flags
 
 
 
@@ -369,12 +369,12 @@ Sherrod Brown of Ohio! https://t.co/2TQotnHnWx",Jon Tester,,
 
 
 
-https://t.co/jwnStFepRX",Josh Hawley,,
--1,1,0,"In Claire McCaskill's America, our enemies are appeased, good people are smeared, and Hollywood values are celebrated. That's not the America we see. Vote Josh Hawley on November 6th! #MOSen #MOPol #ByeByeClaire",Josh Hawley,,
--1,1,0,Josh Hawley thinks he can send us back to the bad old days with his lawsuit. @ClaireCMC knows better. #MOSen https://t.co/VaXBd6jozx,Josh Hawley,,
--1,1,0,Josh Hawley is doing everything in his power to eliminate healthcare protections for people with pre-existing conditions. @ClaireCMC is doing everything in her power to stop him. #MOSen https://t.co/wkbFDE7BaR,Josh Hawley,,
--1,0,0,"In the MO Senate debate, Josh Hawley bemoaned the closing of a small manufacturer in our hometown. The plant has not closed or laid off workers &amp; received a $1.6MM grant from MO EDC for improvements in July of2017. But please know, his small rural home is very important to him.",Josh Hawley,,
--1,0,0,"#MISSOURI #CONSERVATIVES #WALKAWAY
+https://t.co/jwnStFepRX",Josh Hawley
+73,1.0,"In Claire McCaskill's America, our enemies are appeased, good people are smeared, and Hollywood values are celebrated. That's not the America we see. Vote Josh Hawley on November 6th! #MOSen #MOPol #ByeByeClaire",Josh Hawley
+74,1.0,Josh Hawley thinks he can send us back to the bad old days with his lawsuit. @ClaireCMC knows better. #MOSen https://t.co/VaXBd6jozx,Josh Hawley
+75,0.0,Josh Hawley is doing everything in his power to eliminate healthcare protections for people with pre-existing conditions. @ClaireCMC is doing everything in her power to stop him. #MOSen https://t.co/wkbFDE7BaR,Josh Hawley
+76,0.0,"In the MO Senate debate, Josh Hawley bemoaned the closing of a small manufacturer in our hometown. The plant has not closed or laid off workers &amp; received a $1.6MM grant from MO EDC for improvements in July of2017. But please know, his small rural home is very important to him.",Josh Hawley
+77,0.0,"#MISSOURI #CONSERVATIVES #WALKAWAY
 
 
 
@@ -388,8 +388,8 @@ LIES!  She is the Radical Left &amp; has a worse conservative record than PELOSI
 
 Vote JOSH HAWLEY FOR SENATE 
 
-#VoteRed #VoteDemsOut https://t.co/b5S7nS3abY",Josh Hawley,,
-1,0,0,"John James
+#VoteRed #VoteDemsOut https://t.co/b5S7nS3abY",Josh Hawley
+78,1.0,"John James
 
 Kevin Cramer
 
@@ -419,8 +419,8 @@ Mike Braun
 
 Patrick Morrisey
 
-VOTE VOTE VOTE VOTE VOTE",Josh Hawley,,
-1,1,1,"Missouri, vote for Josh Hawley!
+VOTE VOTE VOTE VOTE VOTE",Josh Hawley
+79,1.0,"Missouri, vote for Josh Hawley!
 
 Indiana, vote for Mike Braun!
 
@@ -434,8 +434,8 @@ New Hampshire, vote with Eddie Edwards!
 
 Michigan ,vote for John James! 
 
-Arizona, vote for Martha McSally! https://t.co/XAjXtSySWX",Josh Hawley,,
-1,1,1,"Para crear empleos que proporcionen un salario digno para los habitantes de AZ, #KrystenSinema trabajará para aprobar legislación para construir nueva infraestructura y ayudar negocios a contratar más trabajadores. 
+Arizona, vote for Martha McSally! https://t.co/XAjXtSySWX",Josh Hawley
+80,1.0,"Para crear empleos que proporcionen un salario digno para los habitantes de AZ, #KrystenSinema trabajará para aprobar legislación para construir nueva infraestructura y ayudar negocios a contratar más trabajadores. 
 
 
 
@@ -443,9 +443,9 @@ Arizona, vote for Martha McSally! https://t.co/XAjXtSySWX",Josh Hawley,,
 
 #FlipTheSenate 
 
- https://t.co/yzhRIvn8BD",Kyrsten Sinema,,
-1,1,1,"""People want elected officials who are willing to work together to solve problems, not politicians who play partisan games [...] The good news is that all across the country women are stepping up, running for office, and getting involved."" — @kyrstensinema https://t.co/rWsARvhBac",Kyrsten Sinema,,
-1,1,1,"In Feb 2017, more than 150 members of Congress signed a bipartisan letter demanding a federal response to bomb threats against Jewish Community Centers. 
+ https://t.co/yzhRIvn8BD",Kyrsten Sinema
+81,1.0,"""People want elected officials who are willing to work together to solve problems, not politicians who play partisan games [...] The good news is that all across the country women are stepping up, running for office, and getting involved."" — @kyrstensinema https://t.co/rWsARvhBac",Kyrsten Sinema
+82,1.0,"In Feb 2017, more than 150 members of Congress signed a bipartisan letter demanding a federal response to bomb threats against Jewish Community Centers. 
 
 
 
@@ -457,8 +457,8 @@ Martha McSally did not.
 
 
 
-https://t.co/SO8ssqZgs9",Kyrsten Sinema,,
-1,1,1,"Democrats who will move this country forward:
+https://t.co/SO8ssqZgs9",Kyrsten Sinema
+83,1.0,"Democrats who will move this country forward:
 
 
 
@@ -484,16 +484,16 @@ What other Dems are YOU voting for?
 
 
 
-#VoteBlueToSaveAmerica #GOTV",Kyrsten Sinema,,
-1,1,1,Here ya go: Kyrsten Sinema just wrapped up running a half marathon in Phoenix. She beat her personal half marathon record by 12 minutes — with a time of 1:43. #AZSEN,Kyrsten Sinema,,
-1,1,1,"THE DEFLECTION: Some made-up rumor about Joe Donnelly &amp; Facebook ads.
+#VoteBlueToSaveAmerica #GOTV",Kyrsten Sinema
+84,1.0,Here ya go: Kyrsten Sinema just wrapped up running a half marathon in Phoenix. She beat her personal half marathon record by 12 minutes — with a time of 1:43. #AZSEN,Kyrsten Sinema
+85,0.0,"THE DEFLECTION: Some made-up rumor about Joe Donnelly &amp; Facebook ads.
 
 
 
-THE ACTUAL NEWS: Arizona GOP was caught paying for promotional third party mailers that falsely tied the Green Party candidate to Bernie Sanders in an attempt to siphon votes away from Democrat Kyrsten Sinema. https://t.co/t9vbL3j1gH",Kyrsten Sinema,,
-1,0,0,@joncoopertweets @Nevada_Dem @kyrstensinema I Voted ALL Blue!I know all of this and I Voted for Kyrsten Sinema and ALL BLUE in Early Voting!👍🌊💙😃 https://t.co/d2spmmZnih,Kyrsten Sinema,,
-1,1,1,The Arizona GOP is sending mailers to Democratic voters tying the Green Party nominee in the state’s crucial Senate race to Sen. Bernie Sanders in what appears to be an attempt to persuade liberals to support her over Democratic Rep. Kyrsten Sinema. https://t.co/ra0Usrf0bO,Kyrsten Sinema,,
--1,1,0,"#ARIZONA #CONSERVATIVES
+THE ACTUAL NEWS: Arizona GOP was caught paying for promotional third party mailers that falsely tied the Green Party candidate to Bernie Sanders in an attempt to siphon votes away from Democrat Kyrsten Sinema. https://t.co/t9vbL3j1gH",Kyrsten Sinema
+86,1.0,@joncoopertweets @Nevada_Dem @kyrstensinema I Voted ALL Blue!I know all of this and I Voted for Kyrsten Sinema and ALL BLUE in Early Voting!👍🌊💙😃 https://t.co/d2spmmZnih,Kyrsten Sinema
+87,1.0,The Arizona GOP is sending mailers to Democratic voters tying the Green Party nominee in the state’s crucial Senate race to Sen. Bernie Sanders in what appears to be an attempt to persuade liberals to support her over Democratic Rep. Kyrsten Sinema. https://t.co/ra0Usrf0bO,Kyrsten Sinema
+88,1.0,"#ARIZONA #CONSERVATIVES
 
 
 
@@ -501,23 +501,23 @@ You can put lipstick on a pig,  but it’s still a pig. Don’t be fooled by a p
 
 
 
-VOTE MARTHA MCSALLY FOR SENATE...a proven leader  w/integrity https://t.co/Kk503w914U",Kyrsten Sinema,,
-1,1,1,"@danpfeiffer @leahmcelrath Yes she did. If you live in Arizona and want preexisting conditions saved in the ACA, vote for Kyrsten Sinema.
+VOTE MARTHA MCSALLY FOR SENATE...a proven leader  w/integrity https://t.co/Kk503w914U",Kyrsten Sinema
+89,1.0,"@danpfeiffer @leahmcelrath Yes she did. If you live in Arizona and want preexisting conditions saved in the ACA, vote for Kyrsten Sinema.
 
-#VoteBlueToSaveAmerica  #VoteBlue",Kyrsten Sinema,,
-1,1,1,UN-FREAKING-BELIEVABLE: Protesters heckle Marsha Blackburn during moment of silence for Tree of Life victims -- Corrected https://t.co/bEqoPR4UdS,Marsha Blackburn,,
-1,1,1,"This is BEYOND disgusting, radical leftist heckles Marsha Blackburn DURING a moment of silence for victims of #PittsburghSynagogue shooting...
+#VoteBlueToSaveAmerica  #VoteBlue",Kyrsten Sinema
+90,1.0,UN-FREAKING-BELIEVABLE: Protesters heckle Marsha Blackburn during moment of silence for Tree of Life victims -- Corrected https://t.co/bEqoPR4UdS,Marsha Blackburn
+91,0.0,"This is BEYOND disgusting, radical leftist heckles Marsha Blackburn DURING a moment of silence for victims of #PittsburghSynagogue shooting...
 
-#WalkAway https://t.co/w90AU91M02",Marsha Blackburn,,
--1,0,0,@elynnhardi1 @BearmanShannon @LauraGreenImp @Sedibus_MCML Phil bredesen was a great mayor and an excellent governor for the state of Tennessee. He has ethics and integrity which is hard to find these days in any politician. You won't find these qualities in Marsha Blackburn. She's definitely got Trump in her,Marsha Blackburn,,
--1,1,0,@VoteMarsha Marsha Blackburn voted to kill Social Security and Medicare as we know it. She could care less about her constituents. Blackburn is a hard core liar. https://t.co/lezNmT5nqj,Marsha Blackburn,,
--1,1,0,Protesters dragged from Marsha Blackburn election rally in Nashville https://t.co/13gIX8otK6 via @thinkprogress,Marsha Blackburn,,
-1,0,0,"Democrat trash....
+#WalkAway https://t.co/w90AU91M02",Marsha Blackburn
+92,1.0,@elynnhardi1 @BearmanShannon @LauraGreenImp @Sedibus_MCML Phil bredesen was a great mayor and an excellent governor for the state of Tennessee. He has ethics and integrity which is hard to find these days in any politician. You won't find these qualities in Marsha Blackburn. She's definitely got Trump in her,Marsha Blackburn
+93,1.0,@VoteMarsha Marsha Blackburn voted to kill Social Security and Medicare as we know it. She could care less about her constituents. Blackburn is a hard core liar. https://t.co/lezNmT5nqj,Marsha Blackburn
+94,0.0,Protesters dragged from Marsha Blackburn election rally in Nashville https://t.co/13gIX8otK6 via @thinkprogress,Marsha Blackburn
+95,1.0,"Democrat trash....
 
 
 
-UN-FREAKING-BELIEVABLE: Protesters heckle Marsha Blackburn during moment of silence for Tree of Life victims https://t.co/68bI1H8d4x via @twitchyteam",Marsha Blackburn,,
-1,1,1,"John James
+UN-FREAKING-BELIEVABLE: Protesters heckle Marsha Blackburn during moment of silence for Tree of Life victims https://t.co/68bI1H8d4x via @twitchyteam",Marsha Blackburn
+96,1.0,"John James
 
 Kevin Cramer
 
@@ -547,10 +547,10 @@ Mike Braun
 
 Patrick Morrisey
 
-VOTE VOTE VOTE VOTE VOTE",Marsha Blackburn,,
-1,1,1,.@realDonaldTrump Vice President Pence and Marsha Blackburn are en route to McKenzie Arena for President Trump's rally. https://t.co/dx725ZH9Ub,Marsha Blackburn,,
--1,1,0,Marsha Blackburn tells voters she's fighting opioids. Her track record doesn't agree. https://t.co/vE5ID1NQYm https://t.co/gqWKwLefFh,Marsha Blackburn,,
-1,0,0,"Good thing there's no need for Corker to grow a set since he declined to say whether or not he voted for Marsha Blackburn
+VOTE VOTE VOTE VOTE VOTE",Marsha Blackburn
+97,1.0,.@realDonaldTrump Vice President Pence and Marsha Blackburn are en route to McKenzie Arena for President Trump's rally. https://t.co/dx725ZH9Ub,Marsha Blackburn
+98,0.0,Marsha Blackburn tells voters she's fighting opioids. Her track record doesn't agree. https://t.co/vE5ID1NQYm https://t.co/gqWKwLefFh,Marsha Blackburn
+99,0.0,"Good thing there's no need for Corker to grow a set since he declined to say whether or not he voted for Marsha Blackburn
 
 
 
@@ -558,8 +558,8 @@ Are you packing up your office yet, Bob? I suggest using the cardboard boxes fro
 
 
 
-Pack it up, Bob!  https://t.co/grJ1qaLhAn",Marsha Blackburn,,
-1,0,0,"🔺🔺🔺ARIZONA 🔺🔺🔺
+Pack it up, Bob!  https://t.co/grJ1qaLhAn",Marsha Blackburn
+100,1.0,"🔺🔺🔺ARIZONA 🔺🔺🔺
 
 
 
@@ -579,8 +579,8 @@ Vote November 6th, Avoid Long lines vote Now!
 
 #Arizona
 
-#ROHLL5♛ https://t.co/2hMBDvoOuA",Martha McSally,,
-1,1,1,"If you live in Arizona please vote for true American hero Martha McSally.
+#ROHLL5♛ https://t.co/2hMBDvoOuA",Martha McSally
+101,1.0,"If you live in Arizona please vote for true American hero Martha McSally.
 
 
 
@@ -590,9 +590,9 @@ The feminist snowflake running against her is a zero.
 
 ♦️Vote Straight Republican
 
-#AZSen #VoteRED #KAG https://t.co/x59weiFd8F",Martha McSally,,
-1,1,1,"Martha McSally is a great warrior, her opponent a Nancy Pelosi Wacko! https://t.co/QEUdPWDDud",Martha McSally,,
--1,1,0,"Today, you can make a huge difference with just 2 clicks of a button!
+#AZSen #VoteRED #KAG https://t.co/x59weiFd8F",Martha McSally
+102,1.0,"Martha McSally is a great warrior, her opponent a Nancy Pelosi Wacko! https://t.co/QEUdPWDDud",Martha McSally
+103,1.0,"Today, you can make a huge difference with just 2 clicks of a button!
 
 
 
@@ -612,8 +612,8 @@ Check out this by my friend @CaptainsLogAz 👀⤵️
 
 
 
-https://t.co/YfLsIa5Yve",Martha McSally,,
--1,1,0,"In Feb 2017, more than 150 members of Congress signed a bipartisan letter demanding a federal response to bomb threats against Jewish Community Centers. 
+https://t.co/YfLsIa5Yve",Martha McSally
+104,1.0,"In Feb 2017, more than 150 members of Congress signed a bipartisan letter demanding a federal response to bomb threats against Jewish Community Centers. 
 
 
 
@@ -625,8 +625,8 @@ Martha McSally did not.
 
 
 
-https://t.co/SO8ssqZgs9",Martha McSally,,
--1,1,0,"☀️🌵#Arizona #AZ🌵☀️
+https://t.co/SO8ssqZgs9",Martha McSally
+105,0.0,"☀️🌵#Arizona #AZ🌵☀️
 
 
 
@@ -652,8 +652,8 @@ Elect #Democrats &amp; #FlipTheSenate
 
 
 
-https://t.co/kh3HGECDb2",Martha McSally,,
--1,0,0,"Arizonans: When you vote on Tuesday, please remember that Martha “Let’s Fucking Do This” McSally voted to repeal the ACA and tried to eliminate #PreExistingConditions protections. 
+https://t.co/kh3HGECDb2",Martha McSally
+106,1.0,"Arizonans: When you vote on Tuesday, please remember that Martha “Let’s Fucking Do This” McSally voted to repeal the ACA and tried to eliminate #PreExistingConditions protections. 
 
 
 
@@ -661,33 +661,33 @@ Vote for @kyrstensinema — she’ll protect your health care!
 
 
 
-#MarthaLetsFuckingDoThisMcSally",Martha McSally,,
--1,1,0,"Martha McSally: ""We cannot go back to where we were before Obamacare.""
+#MarthaLetsFuckingDoThisMcSally",Martha McSally
+107,0.0,"Martha McSally: ""We cannot go back to where we were before Obamacare.""
 
 
 
-also Martha McSally: ""Let's get this F***ing thing done!"" (the f***ing thing being Obamacare repeal) https://t.co/E6NA3xklDy",Martha McSally,,
--1,0,0,Martha McSally yelled “Let’s Fucking Do This” on her way to enthusiastically vote to repeal the ACA https://t.co/Ucf7iujsZO,Martha McSally,,
-1,1,1,@MaddowBlog Martha McSally: “Who are you gonna believe? Me or your own eyes?”,Martha McSally,,
--1,1,0,"@MattForMontana @DonaldJTrumpJr @jontester Matt Rosendale refuses to tell the people of Montana how dedicated he is to repeal the ACA and the protection against preexisting conditions. Matt Rosendale will also help 🇷🇺🐘@senatemajldr to cut Social Security &amp; Medicare. Matt, you will vote to put Mitch as leader right?👇🤔 https://t.co/bspMPG2BW2",Matt Rosendale,,
--1,1,0,"With Montana’s 2018 campaign season into its final month, Sen. Jon Tester and Rep. Greg Gianforte, have charted clear fundraising advantages over their respective challengers, Matt Rosendale and  Kathleen Williams. https://t.co/vH7gtrSJkh #mtnews #mtpol https://t.co/BxZR4d5LgB",Matt Rosendale,,
-1,0,0,"Jon Tester says one thing to voters and does the EXACT OPPOSITE in Washington. Tester takes his orders form Pelosi &amp; Schumer. Tester wants to raise your taxes, take away your 2A, open your borders, and deliver MOB RULE. Retire Tester &amp; Elect America-First Patriot Matt Rosendale!",Matt Rosendale,,
--1,1,0,"I'd like to thank #MTSen GOPer Matt Rosendale for saying that he doesn't support protections for pre-existing conditions.
+also Martha McSally: ""Let's get this F***ing thing done!"" (the f***ing thing being Obamacare repeal) https://t.co/E6NA3xklDy",Martha McSally
+108,1.0,Martha McSally yelled “Let’s Fucking Do This” on her way to enthusiastically vote to repeal the ACA https://t.co/Ucf7iujsZO,Martha McSally
+109,1.0,@MaddowBlog Martha McSally: “Who are you gonna believe? Me or your own eyes?”,Martha McSally
+110,1.0,"@MattForMontana @DonaldJTrumpJr @jontester Matt Rosendale refuses to tell the people of Montana how dedicated he is to repeal the ACA and the protection against preexisting conditions. Matt Rosendale will also help 🇷🇺🐘@senatemajldr to cut Social Security &amp; Medicare. Matt, you will vote to put Mitch as leader right?👇🤔 https://t.co/bspMPG2BW2",Matt Rosendale
+111,0.0,"With Montana’s 2018 campaign season into its final month, Sen. Jon Tester and Rep. Greg Gianforte, have charted clear fundraising advantages over their respective challengers, Matt Rosendale and  Kathleen Williams. https://t.co/vH7gtrSJkh #mtnews #mtpol https://t.co/BxZR4d5LgB",Matt Rosendale
+112,1.0,"Jon Tester says one thing to voters and does the EXACT OPPOSITE in Washington. Tester takes his orders form Pelosi &amp; Schumer. Tester wants to raise your taxes, take away your 2A, open your borders, and deliver MOB RULE. Retire Tester &amp; Elect America-First Patriot Matt Rosendale!",Matt Rosendale
+113,1.0,"I'd like to thank #MTSen GOPer Matt Rosendale for saying that he doesn't support protections for pre-existing conditions.
 
 I applaud both his honesty for saying what he believes and his stupidity for saying it out loud.
 
 Re-elect @jontester.
 #FlipTheSenate
-https://t.co/LIgzBbQKIp",Matt Rosendale,,
--1,1,0,"It’s simple: @MattRosendale has made it clear he won’t protect the 152,000 Montanans who have pre-existing conditions. #mtpol #mtsen
+https://t.co/LIgzBbQKIp",Matt Rosendale
+114,1.0,"It’s simple: @MattRosendale has made it clear he won’t protect the 152,000 Montanans who have pre-existing conditions. #mtpol #mtsen
 
-https://t.co/56Q4iwCaqY",Matt Rosendale,,
-1,1,1,"“It’s big, I mean, it’s really big” Rosendale said of the impact the Kavanaugh confirmation had on his race. Rep. Matt Rosendale is running against Dem. Sen. Jon Tester in #Montana. Both camps expect a photo finish. #VoteRedToSaveAmerica #MidtermElections
+https://t.co/56Q4iwCaqY",Matt Rosendale
+115,1.0,"“It’s big, I mean, it’s really big” Rosendale said of the impact the Kavanaugh confirmation had on his race. Rep. Matt Rosendale is running against Dem. Sen. Jon Tester in #Montana. Both camps expect a photo finish. #VoteRedToSaveAmerica #MidtermElections
 
-https://t.co/Ahppifn7na",Matt Rosendale,,
-1,1,1,"Awesome time in Montana with @drrandpaul stumping for Matt Rosendale @MattForMontana! It’s time to shrink government, put America first and stop the endless spending! Montana needs to send Rosendale to the US Senate and put Tester into retirement! #mt #montana #mtsen https://t.co/FXnpxBsQnA",Matt Rosendale,,
-1,1,1,"Jon Tester says one thing to voters and does the EXACT OPPOSITE in Washington. Tester takes his orders form Pelosi &amp; Schumer. Tester wants to raise your taxes, take away your 2A, open your borders, and deliver MOB RULE. Retire Tester &amp; Elect America-First Patriot Matt Rosendale!",Matt Rosendale,,
--1,1,0,"MONTANA
+https://t.co/Ahppifn7na",Matt Rosendale
+116,1.0,"Awesome time in Montana with @drrandpaul stumping for Matt Rosendale @MattForMontana! It’s time to shrink government, put America first and stop the endless spending! Montana needs to send Rosendale to the US Senate and put Tester into retirement! #mt #montana #mtsen https://t.co/FXnpxBsQnA",Matt Rosendale
+117,1.0,"Jon Tester says one thing to voters and does the EXACT OPPOSITE in Washington. Tester takes his orders form Pelosi &amp; Schumer. Tester wants to raise your taxes, take away your 2A, open your borders, and deliver MOB RULE. Retire Tester &amp; Elect America-First Patriot Matt Rosendale!",Matt Rosendale
+118,1.0,"MONTANA
 
 U.S. Senate:
 
@@ -697,8 +697,8 @@ Matt Rosendale (R) 39%
 
 Rick Breckenridge (L) 2%
 
-(U. of Montana Big Sky Poll, LV, 10/10-18/18)",Matt Rosendale,,
-1,1,1,"John James
+(U. of Montana Big Sky Poll, LV, 10/10-18/18)",Matt Rosendale
+119,1.0,"John James
 
 Kevin Cramer
 
@@ -728,9 +728,9 @@ Mike Braun
 
 Patrick Morrisey
 
-VOTE VOTE VOTE VOTE VOTE",Matt Rosendale,,
--1,1,0,"@BigLiciousT I usually take a knee during each political commercial. Luckily my Toughskins jeans have knee patches or they'd be worn thin.  If I see one more Mike Braun commercial, I swear I'm going to punch the next horse I see in town.",Mike Braun,,
-1,1,1,"Vote for the following candidates in November:
+VOTE VOTE VOTE VOTE VOTE",Matt Rosendale
+120,1.0,"@BigLiciousT I usually take a knee during each political commercial. Luckily my Toughskins jeans have knee patches or they'd be worn thin.  If I see one more Mike Braun commercial, I swear I'm going to punch the next horse I see in town.",Mike Braun
+121,1.0,"Vote for the following candidates in November:
 
 Missouri: Josh Hawley (R)
 
@@ -744,12 +744,12 @@ North Dakota: Kevin Cramer (R)
 
 We need to turn these seats RED!
 
-@GOP will #MAGA",Mike Braun,,
-1,1,1,"Mike #MakeMeYawnBraun is incapable of reaching across the aisle because Trump won’t allow it.  Braun clearly takes his marching orders from Trump - not Hoosiers. Thanks Joe for having the backs of your constituents. https://t.co/ndgGeqW4cl
+@GOP will #MAGA",Mike Braun
+122,1.0,"Mike #MakeMeYawnBraun is incapable of reaching across the aisle because Trump won’t allow it.  Braun clearly takes his marching orders from Trump - not Hoosiers. Thanks Joe for having the backs of your constituents. https://t.co/ndgGeqW4cl
 
-@JoeforIndiana @braun4indiana Braun has the most sickening campaign and it is all about party and Trump. Not a single mention of “bipartisan”.  Am with you Joe.  Am a donor and a volunteer.   Proud to have you as our Senator",Mike Braun,,
--1,1,0,I am one more Joe Donnelly vs Mike Braun commercial away from throwing my tv out the window,Mike Braun,,
-1,0,0,"CBS/YouGov Senate polls
+@JoeforIndiana @braun4indiana Braun has the most sickening campaign and it is all about party and Trump. Not a single mention of “bipartisan”.  Am with you Joe.  Am a donor and a volunteer.   Proud to have you as our Senator",Mike Braun
+123,0.0,I am one more Joe Donnelly vs Mike Braun commercial away from throwing my tv out the window,Mike Braun
+124,0.0,"CBS/YouGov Senate polls
 
 
 
@@ -777,9 +777,9 @@ Martha McSally (R) 44%
 
 
 
-https://t.co/PJl6sJEiF0",Mike Braun,,
-1,0,0,"mike braun our man indiana,",Mike Braun,,
-1,1,1,"Missouri, vote for Josh Hawley!
+https://t.co/PJl6sJEiF0",Mike Braun
+125,1.0,"mike braun our man indiana,",Mike Braun
+126,1.0,"Missouri, vote for Josh Hawley!
 
 Indiana, vote for Mike Braun!
 
@@ -793,8 +793,8 @@ New Hampshire, vote with Eddie Edwards!
 
 Michigan ,vote for John James! 
 
-Arizona, vote for Martha McSally! https://t.co/XAjXtSySWX",Mike Braun,,
-1,1,1,"John James
+Arizona, vote for Martha McSally! https://t.co/XAjXtSySWX",Mike Braun
+127,1.0,"John James
 
 Kevin Cramer
 
@@ -824,24 +824,24 @@ Mike Braun
 
 Patrick Morrisey
 
-VOTE VOTE VOTE VOTE VOTE",Mike Braun,,
-1,1,1,"IndyStar Editorial Board: “For Hoosiers who are generally happy with Trump's performance and who want a senator who will help drive the administration's agenda on Capitol Hill, Mike Braun is the ideal choice in this year's Senate race.” #INSen https://t.co/FQcaW4ilSb",Mike Braun,,
-1,1,1,IndyStar Editorial Board: Why Mike Braun is right choice for U.S. Senate https://t.co/5RLkaOUUIp via @indystar @braun4indiana is without a doubt the best choice! @realDonaldTrump @MikePenceVP @Jim_Banks,Mike Braun,,
-1,1,1,Donald Trump Jr. spoke at a campaign rally in West Virginia for U.S. Senate candidate Patrick Morrisey. https://t.co/A4iU91mdU1,Patrick Morrisey,,
--1,1,0,"Hmm, Patrick Morrisey running for office in WV? Born in NYC, raised in Jersey. I guess Country Roads to him means the Jersey Turnpike. Lol
-@EPWVLaw @cspanwj  https://t.co/Ggwkx0hgBp",Patrick Morrisey,,
--1,1,0,"Patrick Morrisey got caught meeting with executives from the pain pill companies his office was taking to court. Why should West Virginians believe that Pat is looking out for them, and not his friends in the pharmaceutical industry? #wvsen #wvpol https://t.co/8kNt3xSYc2",Patrick Morrisey,,
-1,0,0,"Please vote for Patrick Morrisey to WIN West Virginia U.S. Senate. @POTUS #MAGA #FinishTheWall #DeportAllIllegals #MakingAmericaSafeAgain #VoteRepublican2018 for House, Senate &amp; Governor on Nov. 6, 2018 #RedWaveComing2018 #JobsNotMobs #10%TaxCuts https://t.co/CfBzMAliLb",Patrick Morrisey,,
-1,1,1,West Virginia: Republicans Try To Get Ahead of Patrick Morrisey’s Baggage In Bid To Beat Manchin https://t.co/G2e57eIqsB,Patrick Morrisey,,
--1,0,0,"West Virginia senate election voting intention
+VOTE VOTE VOTE VOTE VOTE",Mike Braun
+128,1.0,"IndyStar Editorial Board: “For Hoosiers who are generally happy with Trump's performance and who want a senator who will help drive the administration's agenda on Capitol Hill, Mike Braun is the ideal choice in this year's Senate race.” #INSen https://t.co/FQcaW4ilSb",Mike Braun
+129,1.0,IndyStar Editorial Board: Why Mike Braun is right choice for U.S. Senate https://t.co/5RLkaOUUIp via @indystar @braun4indiana is without a doubt the best choice! @realDonaldTrump @MikePenceVP @Jim_Banks,Mike Braun
+130,1.0,Donald Trump Jr. spoke at a campaign rally in West Virginia for U.S. Senate candidate Patrick Morrisey. https://t.co/A4iU91mdU1,Patrick Morrisey
+131,1.0,"Hmm, Patrick Morrisey running for office in WV? Born in NYC, raised in Jersey. I guess Country Roads to him means the Jersey Turnpike. Lol
+@EPWVLaw @cspanwj  https://t.co/Ggwkx0hgBp",Patrick Morrisey
+132,0.0,"Patrick Morrisey got caught meeting with executives from the pain pill companies his office was taking to court. Why should West Virginians believe that Pat is looking out for them, and not his friends in the pharmaceutical industry? #wvsen #wvpol https://t.co/8kNt3xSYc2",Patrick Morrisey
+133,1.0,"Please vote for Patrick Morrisey to WIN West Virginia U.S. Senate. @POTUS #MAGA #FinishTheWall #DeportAllIllegals #MakingAmericaSafeAgain #VoteRepublican2018 for House, Senate &amp; Governor on Nov. 6, 2018 #RedWaveComing2018 #JobsNotMobs #10%TaxCuts https://t.co/CfBzMAliLb",Patrick Morrisey
+134,0.0,West Virginia: Republicans Try To Get Ahead of Patrick Morrisey’s Baggage In Bid To Beat Manchin https://t.co/G2e57eIqsB,Patrick Morrisey
+135,1.0,"West Virginia senate election voting intention
 
 Joe Manchin (D): 52% (+6)
 Patrick Morrisey (R): 36% (-2)
 
 10/17 - (Strategic Research)
-Changes with 9/27",Patrick Morrisey,,
-1,1,1,Knowing this why would the UMWA support or any member vote for Manchin? Vote Patrick Morrisey.🇺🇸🇺🇸 https://t.co/Wx856sO9x8,Patrick Morrisey,,
-1,1,1,"Saturday, 29 September 2018
+Changes with 9/27",Patrick Morrisey
+136,1.0,Knowing this why would the UMWA support or any member vote for Manchin? Vote Patrick Morrisey.🇺🇸🇺🇸 https://t.co/Wx856sO9x8,Patrick Morrisey
+137,1.0,"Saturday, 29 September 2018
 
 20:47:51 #POTUS #Motorcade Departure - WesBanco Arena en route Wheeling Ohio County Airport
 
@@ -851,9 +851,9 @@ Changes with 9/27",Patrick Morrisey,,
 
 
 
-WEST VIRGINIA --&gt; VOTE REPUBLICAN --&gt; VOTE PATRICK MORRISEY https://t.co/ZlPYgFRnvN",Patrick Morrisey,,
-1,1,1,WV MetroNews – Patrick Morrisey wants all the facts before taking stance on Rockwool issue: https://t.co/9V9oymW2PA,Patrick Morrisey,,
-1,1,1,"John James
+WEST VIRGINIA --&gt; VOTE REPUBLICAN --&gt; VOTE PATRICK MORRISEY https://t.co/ZlPYgFRnvN",Patrick Morrisey
+138,1.0,WV MetroNews – Patrick Morrisey wants all the facts before taking stance on Rockwool issue: https://t.co/9V9oymW2PA,Patrick Morrisey
+139,1.0,"John James
 
 Kevin Cramer
 
@@ -883,10 +883,10 @@ Mike Braun
 
 Patrick Morrisey
 
-VOTE VOTE VOTE VOTE VOTE",Patrick Morrisey,,
-1,1,1,“He [Phil Bredesen] was for Kavanaugh after the votes were in. Marsha was for Kavanaugh the day he was nominated.” - @LindseyGrahamSC https://t.co/xB0JipWBsz,Phil Bredesen,,
--1,1,0,My opponent laughs at clear threats to our border security. A vote for Phil Bredesen is a vote for open borders. https://t.co/NfPVp5iUPO,Phil Bredesen,,
-1,1,1,"SPREAD THE WORD.
+VOTE VOTE VOTE VOTE VOTE",Patrick Morrisey
+140,1.0,“He [Phil Bredesen] was for Kavanaugh after the votes were in. Marsha was for Kavanaugh the day he was nominated.” - @LindseyGrahamSC https://t.co/xB0JipWBsz,Phil Bredesen
+141,1.0,My opponent laughs at clear threats to our border security. A vote for Phil Bredesen is a vote for open borders. https://t.co/NfPVp5iUPO,Phil Bredesen
+142,1.0,"SPREAD THE WORD.
 
 
 
@@ -914,9 +914,9 @@ Tennessee:  Vote for Phil Bredesen!
 
 
 
-#BlueWave #VoteBlue 🌊 https://t.co/q6qyQbcjGO",Phil Bredesen,,
-1,1,1,"Four Questions for America’s Ugliest Campaign https://t.co/fVEe4S4dIu. MARSHA BLACKBURN BOUGHT BY DRUG COMPANIES, WHO PAYS FOR HER VOTES! VOTE BREDESEN!!!",Phil Bredesen,,
-1,1,1,"This election cycle, the NRA has spent $1.1 million attacking Joe Donnelly.
+#BlueWave #VoteBlue 🌊 https://t.co/q6qyQbcjGO",Phil Bredesen
+143,1.0,"Four Questions for America’s Ugliest Campaign https://t.co/fVEe4S4dIu. MARSHA BLACKBURN BOUGHT BY DRUG COMPANIES, WHO PAYS FOR HER VOTES! VOTE BREDESEN!!!",Phil Bredesen
+144,0.0,"This election cycle, the NRA has spent $1.1 million attacking Joe Donnelly.
 
 
 
@@ -924,30 +924,30 @@ Just last week, it spent $195,248 attacking Phil Bredesen and $170,951 attacking
 
 
 
-Democrats want to do something about the gun violence epidemic so the NRA is spending big to stop them.",Phil Bredesen,,
-1,0,0,"Taylor Swift announces on Instagram that she cast an early vote for Democratic Senate candidate Phil Bredesen in Tennessee, and urged others in the state to do the same. 
+Democrats want to do something about the gun violence epidemic so the NRA is spending big to stop them.",Phil Bredesen
+145,1.0,"Taylor Swift announces on Instagram that she cast an early vote for Democratic Senate candidate Phil Bredesen in Tennessee, and urged others in the state to do the same. 
 
 
 
-https://t.co/CNIYs0nCMd",Phil Bredesen,,
-1,1,1,"Mildly interesting red-state trend: Heidi Heitkamp and Claire McCaskill are losing steam down the stretch while Joe Manchin, Joe Donnelly, Phil Bredesen and Beto O’Rourke are either ahead or closing in. 🤔",Phil Bredesen,,
-1,1,1,@realDonaldTrump We don't want you here. You must be desperate to hold onto the Senate.  We don't want Blackburn going to the Senate. We will vote for Phil Bredesen. #VoteBlue #BlueWave #VoteDem #VoteDemocrat #GOPVotingBlue,Phil Bredesen,,
-1,1,1,"Let’s do our part to end hyper-partisan gridlock in Washington and send Phil Bredesen! #GoVoteTN https://t.co/1OVMph7Kkl
+https://t.co/CNIYs0nCMd",Phil Bredesen
+146,1.0,"Mildly interesting red-state trend: Heidi Heitkamp and Claire McCaskill are losing steam down the stretch while Joe Manchin, Joe Donnelly, Phil Bredesen and Beto O’Rourke are either ahead or closing in. 🤔",Phil Bredesen
+147,1.0,@realDonaldTrump We don't want you here. You must be desperate to hold onto the Senate.  We don't want Blackburn going to the Senate. We will vote for Phil Bredesen. #VoteBlue #BlueWave #VoteDem #VoteDemocrat #GOPVotingBlue,Phil Bredesen
+148,1.0,"Let’s do our part to end hyper-partisan gridlock in Washington and send Phil Bredesen! #GoVoteTN https://t.co/1OVMph7Kkl
 
 Our national politics have lost touch. The grudges &amp; disagreements have become too great. My mission today is to ask you to join me in fixing it. I want to go to work to restore the idea that America is something new, something exceptional.
 
-https://t.co/JdEcRaCnES",Phil Bredesen,,
-1,1,1,"@VoteMarsha @realDonaldTrump Neither you or Trump have a thimble full of accomplishments combined!  We NEED leadership....we NEED progress....
+https://t.co/JdEcRaCnES",Phil Bredesen
+149,1.0,"@VoteMarsha @realDonaldTrump Neither you or Trump have a thimble full of accomplishments combined!  We NEED leadership....we NEED progress....
 
-PHIL BREDESEN can deliver both.",Phil Bredesen,,
-1,1,1,@GKeile DON'T forget about Rick Scott in Florida over the *do-nothing* Bill Nelson! Vote #RickScott #VoteRedToSaveAmerica https://t.co/UmlyhxywAV,Rick Scott,,
--1,1,0,This pretty much sums it up - Scott's done a poor job as governor and enriched himself in office: https://t.co/M9cBVMIFzJ,Rick Scott,,
-1,0,0,"Governor Rick Scott has been amazing since the hurricane ... He's always down here providing support, FEMA is everywhere, Red Cross, you name it. We're being well taken care of.
+PHIL BREDESEN can deliver both.",Phil Bredesen
+150,1.0,@GKeile DON'T forget about Rick Scott in Florida over the *do-nothing* Bill Nelson! Vote #RickScott #VoteRedToSaveAmerica https://t.co/UmlyhxywAV,Rick Scott
+151,0.0,This pretty much sums it up - Scott's done a poor job as governor and enriched himself in office: https://t.co/M9cBVMIFzJ,Rick Scott
+152,1.0,"Governor Rick Scott has been amazing since the hurricane ... He's always down here providing support, FEMA is everywhere, Red Cross, you name it. We're being well taken care of.
 
 
 
-Bill Nelson is absolutely nowhere to be found.  Big Surprise. He's a Democrat.",Rick Scott,,
-1,1,1,"President Trump needs support in the US Senate.
+Bill Nelson is absolutely nowhere to be found.  Big Surprise. He's a Democrat.",Rick Scott
+153,1.0,"President Trump needs support in the US Senate.
 
 
 
@@ -961,14 +961,14 @@ President Trump needs Governor Rick Scott not nincompoop Nelson.
 
 #MAGA #KAG2018 #KAG
 
-#WalkAway #StayMad https://t.co/nyYPtwOX1n",Rick Scott,,
--1,1,0,"There seems to be no end to the ways in which Rick Scott enriches himself in public office.
+#WalkAway #StayMad https://t.co/nyYPtwOX1n",Rick Scott
+154,0.0,"There seems to be no end to the ways in which Rick Scott enriches himself in public office.
 
 
 
-https://t.co/1JoOmEgMzl",Rick Scott,,
-1,0,0,🌴💗Hey FLORIDA!!!💗🌴 Please Get Out and 🇺🇸Vote for Rick Scott!!!🇺🇸 He is an Awesome Patriot who will Keep Florida Great...and Make Florida Strong!!! #VoteRepublican #KeepFloridaRed #Midterms2018 #EveryVoteMatters https://t.co/9Stk4bSyme,Rick Scott,,
-1,1,1,"John James
+https://t.co/1JoOmEgMzl",Rick Scott
+155,1.0,🌴💗Hey FLORIDA!!!💗🌴 Please Get Out and 🇺🇸Vote for Rick Scott!!!🇺🇸 He is an Awesome Patriot who will Keep Florida Great...and Make Florida Strong!!! #VoteRepublican #KeepFloridaRed #Midterms2018 #EveryVoteMatters https://t.co/9Stk4bSyme,Rick Scott
+156,1.0,"John James
 
 Kevin Cramer
 
@@ -998,8 +998,7 @@ Mike Braun
 
 Patrick Morrisey
 
-VOTE VOTE VOTE VOTE VOTE",Rick Scott,,
-1,1,1,EXCELLENT -&gt; Rick Scott Takes Rare Lead in Last-Minute Fla. Senate Poll  https://t.co/QTf0VYr8pq,Rick Scott,,
--1,1,0,"Slightly revising his hit ""Margaritaville,” @jimmybuffett today criticized Rick Scott for the state’s environmental mess: “Some people say there’s a red tide to blame, but I know, that it’s all Rick Scott’s fault.” https://t.co/aDcMGYrfTQ",Rick Scott,,
--1,1,0,It’s official. NOT ONE major Florida newspaper endorsed Rick Scott for Senate. Newspapers across the state say Bill Nelson is the right choice for Florida. https://t.co/29HsbimhWK,Rick Scott,,
-,1,0,,,,
+VOTE VOTE VOTE VOTE VOTE",Rick Scott
+157,1.0,EXCELLENT -&gt; Rick Scott Takes Rare Lead in Last-Minute Fla. Senate Poll  https://t.co/QTf0VYr8pq,Rick Scott
+158,1.0,"Slightly revising his hit ""Margaritaville,” @jimmybuffett today criticized Rick Scott for the state’s environmental mess: “Some people say there’s a red tide to blame, but I know, that it’s all Rick Scott’s fault.” https://t.co/aDcMGYrfTQ",Rick Scott
+159,1.0,It’s official. NOT ONE major Florida newspaper endorsed Rick Scott for Senate. Newspapers across the state say Bill Nelson is the right choice for Florida. https://t.co/29HsbimhWK,Rick Scott
