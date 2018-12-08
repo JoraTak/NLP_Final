@@ -74,7 +74,7 @@ def preprocess_sentences(sentences, vocab, use_eos=False, emit_ids=True,
     return ret
 
 
-def rnnlm_batch_generator(ids, batch_size, max_time,labels):
+def rnnlm_batch_generator(ids, batch_size, max_time,labels=None):
     """Convert ids to data-matrix form for RNN language modeling."""
     # Clip to multiple of max_time for convenience
    # clip_len = ((len(ids)-1) // batch_size) * batch_size
@@ -84,8 +84,12 @@ def rnnlm_batch_generator(ids, batch_size, max_time,labels):
     input_w = input_w.reshape([-1,max_time])
     target_y = target_y
     # Yield batches
-    for i in range(0, input_w.shape[0],batch_size):
-        yield input_w[i:i+batch_size], target_y[i:i+batch_size]
+    if labels is not None:
+        for i in range(0, input_w.shape[0],batch_size):
+            yield input_w[i:i+batch_size], target_y[i:i+batch_size]
+    else:
+        for i in range(0, input_w.shape[0],batch_size):
+            yield input_w[i:i+batch_size] 
 
 
 def batch_generator(data, batch_size):
